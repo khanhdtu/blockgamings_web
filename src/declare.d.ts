@@ -1,0 +1,5 @@
+declare module 'ramda'
+declare module 'react-currency-format'
+declare module 'styled-components'
+declare module 'material-ui-phone-number'
+declare module '@slider-captcha/react'
